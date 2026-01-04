@@ -65,5 +65,5 @@ A centralized shipment tracking system with:
 ---
 
 ## 👤 Author
-**Your Name**  
-Student | Aspiring Operations / Logistics Analyst
+Antoinette Consolacion 
+Aspiring Operations / Logistics Analyst
